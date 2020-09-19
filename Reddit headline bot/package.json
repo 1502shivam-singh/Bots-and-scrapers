@@ -1,0 +1,22 @@
+{
+  "name": "reddit-scraper",
+  "version": "1.0.0",
+  "description": "scrapy boi",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^5.3.0",
+    "request-promise": "^4.2.6",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-scraper",
+    "node.js"
+  ],
+  "author": "ZeroneXYZ",
+  "license": "MIT"
+}
